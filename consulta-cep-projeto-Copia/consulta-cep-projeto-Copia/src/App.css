@@ -1,0 +1,39 @@
+body {
+  background-color: #1c1c1f;
+  color: #333;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  width: 400px;
+}
+
+h1 {
+  color: hotpink;
+}
+
+input {
+  padding: 10px;
+  width: 200px;
+  margin-bottom: 15px;
+}
+
+button {
+  background-color: pink;
+  border: none;
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.resultado {
+  margin-top: 20px;
+  text-align: left;
+}
