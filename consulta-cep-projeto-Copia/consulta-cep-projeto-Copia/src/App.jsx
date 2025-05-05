@@ -33,7 +33,7 @@ function App() {
         type="text"
         value={cep}
         onChange={(e) => setCep(e.target.value)}
-        placeholder="01002000"
+        placeholder="Digite aqui"
       />
       <br />
       <button onClick={consultarCep}>Enviar</button>
